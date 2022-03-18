@@ -7,3 +7,4 @@ print(a)
 print(b)
 
 my_list = [1, 2, 3, 4, 5, 6]
+grades = [67, 100, 87, 56]
